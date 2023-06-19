@@ -4,7 +4,7 @@ import pandas as pd
 import re
 from pathlib import Path
 
-AV_API_KEY = 'KSNDAVD1D09HXLSF'
+AV_API_KEY = 'YOUR_API_KEY'
 AV_URL = 'https://www.alphavantage.co/query'
 SHEETY_ENDPOINT = 'https://api.sheety.co/e66ef7bc0eab43af993d426d75098c04/stocksTracker/myStocks'
 
